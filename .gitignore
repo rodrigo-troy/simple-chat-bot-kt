@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chat Bot (Kotlin)/*
+!/Simple Chat Bot (Kotlin)/task/
+/Simple Chat Bot (Kotlin)/task/*
+!/Simple Chat Bot (Kotlin)/task/src
